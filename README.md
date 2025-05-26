@@ -7,9 +7,14 @@
 
 </a>
 
+<a href="https://github.com/henrykhsa/">
+<img height=200 align="center" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=henrykhsa&layout=donut&langs_count=20&theme=dark#gh-dark-mode-only"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrykhsa&layout=donut&langs_count=20&theme=dark#gh-dark-mode-only)](https://github.com/henrykhsa/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrykhsa&layout=donut&langs_count=20&theme=default#gh-light-mode-only)](https://github.com/henrykhsa/)
+</a>
+<a href="https://github.com/henrykhsa/">
+<img height=200 align="center" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=henrykhsa&layout=donut&langs_count=20&theme=default#gh-light-mode-only"/>
+
+</a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=super_trunfo&show_owner=true&theme=dark#gh-dark-mode-only)](https://github.com/henrykhsa/super_trunfo) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=super_trunfo&show_owner=true&theme=default#gh-light-mode-only)](https://github.com/henrykhsa/super_trunfo) 
