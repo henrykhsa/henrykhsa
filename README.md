@@ -1,15 +1,8 @@
 <style>
- .social{
-  display: block;
-  margin: auto;
-  width: 50%;
-}
 .lUsed{
-  display: block;
-  margin: auto;
-  width: 50%;
+  display: flex;
+  justify-content: center;
 }
-
 </style>
 
 <div class="stats" >
@@ -42,12 +35,6 @@
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />             
 </div><br>
-
-<div class="social">
-  <hr>
-  <img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg? logo=Instagram&logoColor=white"/>
-  <img height="30" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
-</div>
 
 
 
