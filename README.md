@@ -3,7 +3,7 @@
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=henrykhsa&theme=dark" />
   </a>
   <a href="https://github.com/henrykhsa/">
-  
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=henrykhsa&layout=donut&langs_count=5&card_width=320&theme=dark" />
   </a>
 </div>
 <br>
