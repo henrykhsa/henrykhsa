@@ -1,9 +1,9 @@
 <div class="stats" >
   <a href="https://github.com/henrykhsa/">
-  <img height=190 src="https://github-readme-stats.vercel.app/api?username=henrykhsa&hide_border=true&theme=dark" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=henrykhsa&hide_border=true&theme=dark" />
   </a>
   <a href="https://github.com/henrykhsa/">
-  <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrykhsa&layout=compact&hide_border=true&theme=dark" />
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrykhsa&layout=compact&hide_border=true&theme=dark" />
   </a>
 </div>
 <br>
