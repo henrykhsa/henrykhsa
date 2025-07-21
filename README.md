@@ -7,18 +7,21 @@ Minha experiência de mais de 7 anos em atendimento e hotelaria me permitiu dese
 
 ## Repositórios Recentes
 <div>
-  <a href="https://github.com/henrykhsa/super_trunfo/">
-  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=super_trunfo&show_owner=true&theme=dark" />
+  <a href="https://github.com/henrykhsa/University-Projects/">
+  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=University-Projects&show_owner=true&theme=dark" />
   </a>
   <a href="https://github.com/henrykhsa/Lau/">
   <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Lau&show_owner=true&theme=dark" />
+  </a>
+  <a href="https://github.com/henrykhsa/fourteam/">
+  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=fourteam&show_owner=true&theme=dark" />
   </a>
 </div> 
 <br> 
 
 ## Linguagens
 <div>
-  <img height="50px" width="50px" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />          
+  <img height="50px" width="50px" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />          
   <img height="50px" width="50px" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
   <img height="50px" width="50px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
   <img height="50px" width="50px" alt="HTML5"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
