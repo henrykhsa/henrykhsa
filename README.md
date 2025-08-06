@@ -10,11 +10,11 @@ Minha experiência de mais de 7 anos em atendimento e hotelaria me permitiu dese
   <a href="https://github.com/henrykhsa/University-Projects/">
   <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=University-Projects&show_owner=true&theme=dark" />
   </a>
-  <a href="https://github.com/henrykhsa/fourteam/">
-  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=fourteam&show_owner=true&theme=dark" />
+  <a href="https://github.com/henrykhsa/Fourteam-Projeto-3">
+  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-3&show_owner=true&theme=dark" />
   </a>
-  <a href="https://github.com/henrykhsa/Koru_API">
-  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=koru_API&show_owner=true&theme=dark" />
+  <a href="https://github.com/henrykhsa/Fourteam-Projeto-5">
+  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-5&show_owner=true&theme=dark" />
   </a>
   <a href="https://github.com/henrykhsa/Lau/">
   <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Lau&show_owner=true&theme=dark" />
@@ -24,11 +24,11 @@ Minha experiência de mais de 7 anos em atendimento e hotelaria me permitiu dese
 
 ## Linguagens
 <div>
-  <img height="50px" width="50px" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />          
+  <img height="50px" width="50px" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img height="50px" width="50px" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
   <img height="50px" width="50px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"/>
   <img height="50px" width="50px" alt="HTML5"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-  <img height="50px" width="50px" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />            
+  <img height="50px" width="50px" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
   <img height="50px" width="50px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 <br>
@@ -39,6 +39,9 @@ Minha experiência de mais de 7 anos em atendimento e hotelaria me permitiu dese
 <img height="50px" width="50px" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img height="50px" width="50px" alt="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
 <img height="50px" width="50px" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img height="50px" width="50px" alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
+<img height="50px" width="50px" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+          
 </div>
 
 ## GitHub Stats
