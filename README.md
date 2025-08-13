@@ -30,6 +30,7 @@ Minha experiência de mais de 7 anos em atendimento e hotelaria me permitiu dese
   <img height="50px" width="50px" alt="HTML5"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
   <img height="50px" width="50px" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
   <img height="50px" width="50px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="50px" width="50px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />    
 </div>
 <br>
 
