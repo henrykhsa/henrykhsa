@@ -34,7 +34,7 @@ Minha experiência de mais de 7 anos em atendimento e hotelaria me permitiu dese
 </div>
 <br>
 
-### Ferramentas / Sistema Operacional
+## Ferramentas / Sistema Operacional
 <div>
 <img height="50px" width="50px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
 <img height="50px" width="50px" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
