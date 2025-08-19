@@ -42,7 +42,7 @@ Minha experiência de mais de 7 anos em atendimento e hotelaria me permitiu dese
 <img height="50px" width="50px" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img height="50px" width="50px" alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 <img height="50px" width="50px" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-          
+<img height="50px" width="50px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 </div>
 
 ## GitHub Stats
