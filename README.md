@@ -5,21 +5,45 @@ Sou estudante de Ciência da Computação, com o objetivo de me tornar um Desenv
 
 Minha experiência de mais de 7 anos em atendimento e hotelaria me permitiu desenvolver a habilidade de lidar com situações de estresse, gerenciar equipes diversas e navegar por rotinas de trabalho complexas. Pretendo aplicar minhas fortes habilidades de comunicação para construir relacionamentos colaborativos em equipe e impulsionar meu desenvolvimento na área de tecnologia.
 
+## Contatos 
+<div style="display: flex; justify-content: center; align-items: center">
+  <a href="https://www.instagram.com/henryk_hsa" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+  <a href = "mailto:henryk33658@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+  <a href="https://www.linkedin.com/in/henrykhsa" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 ## Repositórios Recentes
-<div>
-  <a href="https://github.com/henrykhsa/University-Projects/">
-  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=University-Projects&show_owner=true&theme=dark" />
-  </a>
-  <a href="https://github.com/henrykhsa/Fourteam-Projeto-3">
-  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-3&show_owner=true&theme=dark" />
-  </a>
-  <a href="https://github.com/henrykhsa/Fourteam-Projeto-5">
-  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-5&show_owner=true&theme=dark" />
-  </a>
-  <a href="https://github.com/henrykhsa/Lau/">
-  <img height=115 src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Lau&show_owner=true&theme=dark" />
-  </a>
-</div> 
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <div style="flex: 1 1 200px; max-width: 48%;">
+    <a target="_blank" href="https://github.com/henrykhsa/University-Projects/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=University-Projects&show_owner=true&theme=dark" style="width: 100%;" />
+    </a>
+  </div>
+
+  <div style="flex: 1 1 200px; max-width: 48%;">
+    <a target="_blank" href="https://github.com/henrykhsa/Fourteam-Projeto-3">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-3&show_owner=true&theme=dark" style="width: 100%;" />
+    </a>
+  </div>
+
+  <div style="flex: 1 1 200px; max-width: 48%;">
+    <a target="_blank" href="https://github.com/henrykhsa/Fourteam-Projeto-5">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-5&show_owner=true&theme=dark" style="width: 100%;" />
+    </a>
+  </div>
+
+  <div style="flex: 1 1 200px; max-width: 48%;">
+    <a target="_blank" href="https://github.com/henrykhsa/Lau/">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Lau&show_owner=true&theme=dark" style="width: 100%;" />
+    </a>
+  </div>
+</div>
 <br> 
 
 ## Linguagens
