@@ -19,26 +19,26 @@ Minha experiência de mais de 7 anos em atendimento e hotelaria me permitiu dese
 
 ## Repositórios Recentes
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="padding: 5px; vertical-align: top; width: 50%;">
+<table style="width: 100%; border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="padding: 5px; vertical-align: top; width: 50%; border: none;">
       <a target="_blank" href="https://github.com/henrykhsa/University-Projects/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=University-Projects&show_owner=true&theme=dark" style="width: 100%;" />
       </a>
     </td>
-    <td style="padding: 5px; vertical-align: top; width: 50%;">
+    <td style="padding: 5px; vertical-align: top; width: 50%; border: none;">
       <a target="_blank" href="https://github.com/henrykhsa/Fourteam-Projeto-3">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-3&show_owner=true&theme=dark" style="width: 100%;" />
       </a>
     </td>
   </tr>
-  <tr>
-    <td style="padding: 5px; vertical-align: top; width: 50%;">
+  <tr style="border: none;">
+    <td style="padding: 5px; vertical-align: top; width: 50%; border: none;">
       <a target="_blank" href="https://github.com/henrykhsa/Fourteam-Projeto-5">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-5&show_owner=true&theme=dark" style="width: 100%;" />
       </a>
     </td>
-    <td style="padding: 5px; vertical-align: top; width: 50%;">
+    <td style="padding: 5px; vertical-align: top; width: 50%; border: none;">
       <a target="_blank" href="https://github.com/henrykhsa/Lau/">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Lau&show_owner=true&theme=dark" style="width: 100%;" />
       </a>
