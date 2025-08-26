@@ -19,32 +19,32 @@ Minha experiência de mais de 7 anos em atendimento e hotelaria me permitiu dese
 
 ## Repositórios Recentes
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <div style="flex: 1 1 200px; max-width: 48%;">
-    <a target="_blank" href="https://github.com/henrykhsa/University-Projects/">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=University-Projects&show_owner=true&theme=dark" style="width: 100%;" />
-    </a>
-  </div>
-
-  <div style="flex: 1 1 200px; max-width: 48%;">
-    <a target="_blank" href="https://github.com/henrykhsa/Fourteam-Projeto-3">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-3&show_owner=true&theme=dark" style="width: 100%;" />
-    </a>
-  </div>
-
-  <div style="flex: 1 1 200px; max-width: 48%;">
-    <a target="_blank" href="https://github.com/henrykhsa/Fourteam-Projeto-5">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-5&show_owner=true&theme=dark" style="width: 100%;" />
-    </a>
-  </div>
-
-  <div style="flex: 1 1 200px; max-width: 48%;">
-    <a target="_blank" href="https://github.com/henrykhsa/Lau/">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Lau&show_owner=true&theme=dark" style="width: 100%;" />
-    </a>
-  </div>
-</div>
-<br> 
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 5px; vertical-align: top; width: 50%;">
+      <a target="_blank" href="https://github.com/henrykhsa/University-Projects/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=University-Projects&show_owner=true&theme=dark" style="width: 100%;" />
+      </a>
+    </td>
+    <td style="padding: 5px; vertical-align: top; width: 50%;">
+      <a target="_blank" href="https://github.com/henrykhsa/Fourteam-Projeto-3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-3&show_owner=true&theme=dark" style="width: 100%;" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 5px; vertical-align: top; width: 50%;">
+      <a target="_blank" href="https://github.com/henrykhsa/Fourteam-Projeto-5">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-5&show_owner=true&theme=dark" style="width: 100%;" />
+      </a>
+    </td>
+    <td style="padding: 5px; vertical-align: top; width: 50%;">
+      <a target="_blank" href="https://github.com/henrykhsa/Lau/">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Lau&show_owner=true&theme=dark" style="width: 100%;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Linguagens
 <div>
