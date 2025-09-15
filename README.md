@@ -19,32 +19,21 @@ Minha experiência de mais de 7 anos em atendimento e hotelaria me permitiu dese
 
 ## Repositórios Recentes
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="padding: 5px; vertical-align: top; width: 50%;">
-      <a target="_blank" href="https://github.com/henrykhsa/University-Projects/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=University-Projects&show_owner=true&theme=dark" style="width: 100%;" />
-      </a>
-    </td>
-    <td style="padding: 5px; vertical-align: top; width: 50%;">
-      <a target="_blank" href="https://github.com/henrykhsa/Fourteam-Projeto-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-3&show_owner=true&theme=dark" style="width: 100%;" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 5px; vertical-align: top; width: 50%;">
-      <a target="_blank" href="https://github.com/henrykhsa/Fourteam-Projeto-5">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-5&show_owner=true&theme=dark" style="width: 100%;" />
-      </a>
-    </td>
-    <td style="padding: 5px; vertical-align: top; width: 50%;">
-      <a target="_blank" href="https://github.com/henrykhsa/Lau/">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Lau&show_owner=true&theme=dark" style="width: 100%;" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/henrykhsa/University-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=University-Projects&show_owner=true&theme=dark" />
+  </a>
+  <a href="https://github.com/henrykhsa/Fourteam-Projeto-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-3&show_owner=true&theme=dark" />
+  </a>
+  <a href="https://github.com/henrykhsa/Project-koru">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Project-koru&show_owner=true&theme=dark" />
+  </a>
+  <a href="https://github.com/henrykhsa/Fourteam-Projeto-6">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-6&show_owner=true&theme=dark" />
+  </a>
+</p>
+<br>
 
 ## Linguagens
 <div>
@@ -60,13 +49,14 @@ Minha experiência de mais de 7 anos em atendimento e hotelaria me permitiu dese
 
 ## Ferramentas / Sistema Operacional
 <div>
-<img height="50px" width="50px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-<img height="50px" width="50px" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img height="50px" width="50px" alt="GIT" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
 <img height="50px" width="50px" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img height="50px" width="50px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+<img height="50px" width="50px" alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <img height="50px" width="50px" alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 <img height="50px" width="50px" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img height="50px" width="50px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img height="50px" width="50px" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 </div>
 
 ## GitHub Stats
