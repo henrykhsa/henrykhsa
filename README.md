@@ -21,16 +21,16 @@ Minha experiência de mais de 7 anos em atendimento e hotelaria me permitiu dese
 
 <p align="center">
   <a href="https://github.com/henrykhsa/University-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=University-Projects&show_owner=true&theme=dark" />
+    <img src="https://github-readme-stats-seven-delta-59.vercel.app/api/pin/?username=henrykhsa&repo=University-Projects&show_owner=true&theme=dark" />
   </a>
   <a href="https://github.com/henrykhsa/Fourteam-Projeto-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-3&show_owner=true&theme=dark" />
+    <img src="https://github-readme-stats-seven-delta-59.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-3&show_owner=true&theme=dark" />
   </a>
   <a href="https://github.com/henrykhsa/Project-koru">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Project-koru&show_owner=true&theme=dark" />
+    <img src="https://github-readme-stats-seven-delta-59.vercel.app/api/pin/?username=henrykhsa&repo=Project-koru&show_owner=true&theme=dark" />
   </a>
   <a href="https://github.com/henrykhsa/Fourteam-Projeto-6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-6&show_owner=true&theme=dark" />
+    <img src="https://github-readme-stats-seven-delta-59.vercel.app/api/pin/?username=henrykhsa&repo=Fourteam-Projeto-6&show_owner=true&theme=dark" />
   </a>
 </p>
 <br>
@@ -62,10 +62,10 @@ Minha experiência de mais de 7 anos em atendimento e hotelaria me permitiu dese
 ## GitHub Stats
 <div class="stats" >
   <a href="https://github.com/henrykhsa/">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=henrykhsa&hide_border=true&theme=dark" />
+  <img height=180 src="https://github-readme-stats-seven-delta-59.vercel.app/api?username=henrykhsa&hide_border=true&theme=dark" />
   </a>
   <a href="https://github.com/henrykhsa/">
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrykhsa&layout=compact&hide_border=true&theme=dark" />
+  <img height=180 src="https://github-readme-stats-seven-delta-59.vercel.app/api/top-langs/?username=henrykhsa&layout=compact&hide_border=true&theme=dark" />
   </a>
 </div>
 <br>
